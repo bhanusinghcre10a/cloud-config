@@ -1,1 +1,2 @@
 
+spring.datasource.url=jdbc:mysql://localhost:3306/bhanu?allowPublicKeyRetrieval=true&useSSL=false
